@@ -3,3 +3,4 @@ The iPad setup that I use
 
 ## included
 - wallpapers
+- TXT Files
