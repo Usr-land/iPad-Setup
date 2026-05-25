@@ -1,6 +1,6 @@
-# iPad-Setup
+# 📱 iPad-Setup
 The iPad setup that I use
 
-## included
+## 📝 included
 - wallpapers
 - TXT Files
